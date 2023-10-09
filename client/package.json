@@ -1,0 +1,37 @@
+{
+  "name": "rullet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.14.12",
+    "@mui/material": "^5.14.12",
+    "bufferutil": "^4.0.7",
+    "freeice": "^2.2.2",
+    "next": "latest",
+    "peerjs": "^1.5.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "utf-8-validate": "^5.0.10",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/uuid": "^9.0.4",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
